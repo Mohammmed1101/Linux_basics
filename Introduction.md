@@ -19,6 +19,19 @@ lrwxrwxrwx -> Link
 drwr-xr-x -> Directory
 commands :
 
+- pwd -> وين انا
+- ls -> عرض الملفات
+- ls -l ->  عرض الملفات بتفاصيل اكثر
+- cd -> تغيير المكان
+- cd .. -> ارجع خطوة ورا
+- touch filename.path -> اضافة ملف
+-  rm filename.path -> حذف ملف
+- cd ~ -> ترجعك لمجلدك
+- mkdir dirName ->  اضافة مجلد
+- nano  myfile.txt -> تكتب فالملف
+- cat myfile.txt -> تعرض الملف
+
+
 ls -l /
 -> bin = share users
 -> boot = ملفات اقلاع النظام
